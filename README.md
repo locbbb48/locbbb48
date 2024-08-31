@@ -7,7 +7,8 @@
   <div style="flex: 1; text-align: left;">
     👋 Hi, I’m @locbbb48<br>
     🌱 I’m currently learning everything that I can learn<br>
-    👀 I’m interested in Game vs Unity, if you share the same passion, contact me.<br>
+    👀 I’m interested in Game vs Unity, if you share the same passion,
+    contact me.<br>
     📫 How to reach me:<br>
     - Fb: <a href="https://www.facebook.com/8bui8.8locthanh.8">Facebook</a><br>
     - Mail: <a href="mailto:builoc08042004@gmail.com">builoc08042004@gmail.com</a>
