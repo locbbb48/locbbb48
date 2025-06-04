@@ -7,5 +7,5 @@
   - Mail: [builoc08042004@gmail.com](mailto:builoc08042004@gmail.com)
 
 <p align="center">
-  <img src="https://github.com/locbbb48/locbbb48/blob/main/marioGif.gif" alt="BuithLoc Gif" width="300"/>
+  <img src="https://github.com/locbbb48/locbbb48/blob/main/chill-mario-pixel-moewalls-com.gif" alt="BuithLoc Gif" width="1000"/>
 </p>
