@@ -4,7 +4,7 @@
       <ul>
         <li>👋 Hi, I’m @locbbb48</li>
         <li>🌱 I’m currently learning everything that I can learn</li>
-        <li>👀 I’m interested in Game vs Unity, if you share the same passion, contact me.</li>
+        <li>👀 I’m interested in Game Dev, if you share the same passion, contact me.</li>
         <li>📫 How to reach me:</li>
         <ul>
           <li>Fb: <a href="https://www.facebook.com/8bui8.8locthanh.8">Facebook</a></li>
