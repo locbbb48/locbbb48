@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning everything that I can learn  
-- 👀 I’m interested in Game Dev, if you share the same passion, contact me.
+- 👀 I’m interested in Game Dev; I can use a wide variety of game engines and programming languages to make games (Unity-C#, CoCos-JS/TS, C++). If you share the same passion, contact me.
 - 📫 How to reach me:  
   - Fb: [Facebook](https://www.facebook.com/8bui8.8locthanh.8)
   - Mail: [builoc08042004@gmail.com](mailto:builoc08042004@gmail.com)
